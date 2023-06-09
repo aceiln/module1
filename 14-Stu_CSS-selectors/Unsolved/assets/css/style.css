@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* astericks applies the feature to the entire page. or 'a'  */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* TODO: all sections within body, header, footer, have their appropriate designs (element selecter) (a) */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* all highlighted text in this class is bolded */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* TODO: the background color in this id is different */
 #contact-section {
   background-color: #f0ead6;
 }
